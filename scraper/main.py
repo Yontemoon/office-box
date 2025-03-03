@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from utils import stringToInt
 import json
-from datetime import date
+from datetime import date, timedelta
 from utils import uuidToString
 
 
@@ -14,6 +14,7 @@ def get_daily_bo(date):
     movies = []
 
     movie_elements = soup.find_all("tr", class_="mojo-annotation-isEstimated")
+    print(movie_elements)
 
     for movie in movie_elements:
         table_data = movie.find_all("td")
@@ -38,11 +39,12 @@ def get_daily_bo(date):
 
 def main():
     today = date.today()
-    print("Todays date:", today)
-    movies = get_daily_bo(today)
+    yesterday = today - timedelta(days=1)
+    print("Todays date:", yesterday)
+    movies = get_daily_bo(yesterday)
 
     #Save in file
-    with open("2025-03-02.json", "w") as f:
+    with open(f"data/{yesterday}.json", "w") as f:
         json.dump(movies, f, indent=2)
     print("Successfully added data!")
 
