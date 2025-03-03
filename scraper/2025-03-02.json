@@ -1,0 +1,202 @@
+[
+  {
+    "movie_id": "bb4341db-a9e6-5a7f-a215-b9cdd5bd09b1",
+    "title": "Captain America: Brave New World",
+    "daily_bo": 4400000,
+    "theaters": 3800,
+    "to_date": 163696598,
+    "days_in_theaters": 17
+  },
+  {
+    "movie_id": "da32f4f6-e711-5aba-86bb-0a4501dde158",
+    "title": "Last Breath",
+    "daily_bo": 1800000,
+    "theaters": 3018,
+    "to_date": 7800000,
+    "days_in_theaters": 3
+  },
+  {
+    "movie_id": "36a99583-9654-50cb-9a5a-74ebe05bf76d",
+    "title": "The Monkey",
+    "daily_bo": 1750000,
+    "theaters": 3227,
+    "to_date": 24591350,
+    "days_in_theaters": 10
+  },
+  {
+    "movie_id": "ab427386-a715-54a1-ad54-c3c78a2e1dc2",
+    "title": "Paddington in Peru",
+    "daily_bo": 1425000,
+    "theaters": 3705,
+    "to_date": 31359000,
+    "days_in_theaters": 17
+  },
+  {
+    "movie_id": "c07e08b3-a36c-5a56-a204-01c50920a28f",
+    "title": "Dog Man",
+    "daily_bo": 1330000,
+    "theaters": 3055,
+    "to_date": 84060000,
+    "days_in_theaters": 31
+  },
+  {
+    "movie_id": "a3d63c7f-895c-513e-86b3-b0d50120af17",
+    "title": "Mufasa: The Lion King",
+    "daily_bo": 575000,
+    "theaters": 1705,
+    "to_date": 247996607,
+    "days_in_theaters": 73
+  },
+  {
+    "movie_id": "4d16df3a-824a-5f4e-94dd-668cc0f0511e",
+    "title": "Heart Eyes",
+    "daily_bo": 356000,
+    "theaters": 2406,
+    "to_date": 28887000,
+    "days_in_theaters": 24
+  },
+  {
+    "movie_id": "a586793d-5f0b-56fe-8871-a60e69ff496c",
+    "title": "The Unbreakable Boy",
+    "daily_bo": 300000,
+    "theaters": 1717,
+    "to_date": 4532392,
+    "days_in_theaters": 10
+  },
+  {
+    "movie_id": "f00a45fc-6cf9-51b7-a02e-86c840509635",
+    "title": "A Complete Unknown",
+    "daily_bo": 289000,
+    "theaters": 865,
+    "to_date": 73765160,
+    "days_in_theaters": 68
+  },
+  {
+    "movie_id": "93d5a13a-1fbd-505a-9a0a-ef36109d85dd",
+    "title": "One of Them Days",
+    "daily_bo": 252000,
+    "theaters": 875,
+    "to_date": 47471215,
+    "days_in_theaters": 45
+  },
+  {
+    "movie_id": "a5a78444-3e72-56b6-9d21-51a149738c8f",
+    "title": "Riff Raff",
+    "daily_bo": 220670,
+    "theaters": 1004,
+    "to_date": 901370,
+    "days_in_theaters": 4
+  },
+  {
+    "movie_id": "0dd10b34-2e8a-5958-b197-f895424ce621",
+    "title": "Mobile Suit Gundam GQuuuuuuX: Beginning",
+    "daily_bo": 171154,
+    "theaters": 784,
+    "to_date": 916664,
+    "days_in_theaters": 3
+  },
+  {
+    "movie_id": "e7ca99fb-20ae-5800-98ff-9b56c3c66ba3",
+    "title": "My Dead Friend Zoe",
+    "daily_bo": 165000,
+    "theaters": 780,
+    "to_date": 755000,
+    "days_in_theaters": 3
+  },
+  {
+    "movie_id": "d7f4884b-2bc2-5420-9144-5ee7c5081769",
+    "title": "The Brutalist",
+    "daily_bo": 135458,
+    "theaters": 680,
+    "to_date": 15789248,
+    "days_in_theaters": 73
+  },
+  {
+    "movie_id": "e8619521-056e-51f7-afdc-441ae8487fa6",
+    "title": "Moana 2",
+    "daily_bo": 120000,
+    "theaters": 535,
+    "to_date": 459366321,
+    "days_in_theaters": 96
+  },
+  {
+    "movie_id": "cca479a9-8d9c-5331-a210-593c343cd81f",
+    "title": "Love Hurts",
+    "daily_bo": 110000,
+    "theaters": 1212,
+    "to_date": 15395460,
+    "days_in_theaters": 24
+  },
+  {
+    "movie_id": "75b9c3d3-6beb-56d0-9a66-3a8e3fc26c5c",
+    "title": "Flight Risk",
+    "daily_bo": 73000,
+    "theaters": 595,
+    "to_date": 29468335,
+    "days_in_theaters": 38
+  },
+  {
+    "movie_id": "f49ba170-29e6-5785-b00a-9014bde44fcb",
+    "title": "Sonic the Hedgehog 3",
+    "daily_bo": 70000,
+    "theaters": 402,
+    "to_date": 235604375,
+    "days_in_theaters": 73
+  },
+  {
+    "movie_id": "8e0710a0-0b28-5cf8-979c-379124843054",
+    "title": "Conclave",
+    "daily_bo": 36000,
+    "theaters": 663,
+    "to_date": 32493000,
+    "days_in_theaters": 129
+  },
+  {
+    "movie_id": "b3048f02-7d42-5944-840b-aae11ff0310c",
+    "title": "Legends of the Condor Heroes: The Gallants",
+    "daily_bo": 32000,
+    "theaters": 200,
+    "to_date": 563488,
+    "days_in_theaters": 10
+  },
+  {
+    "movie_id": "7ca1e353-ec9b-5bf7-8a43-fadf7091d856",
+    "title": "Wicked",
+    "daily_bo": 28000,
+    "theaters": 620,
+    "to_date": 473019000,
+    "days_in_theaters": 101
+  },
+  {
+    "movie_id": "8011bab8-f516-57ee-a6e9-fcca1fa4d621",
+    "title": "Brothers After War",
+    "daily_bo": 15000,
+    "theaters": 134,
+    "to_date": 78225,
+    "days_in_theaters": 3
+  },
+  {
+    "movie_id": "dfcfe3d1-b20c-5772-bb89-7362764c282d",
+    "title": "Parthenope",
+    "daily_bo": 8377,
+    "theaters": 62,
+    "to_date": 282501,
+    "days_in_theaters": 24
+  },
+  {
+    "movie_id": "8131f361-9618-5961-b7ba-bb2bb18b9070",
+    "title": "Unholy Song",
+    "daily_bo": 5000,
+    "theaters": 20,
+    "to_date": 21485,
+    "days_in_theaters": 3
+  },
+  {
+    "movie_id": "d3bcd032-4a8b-5760-a379-125333a027bb",
+    "title": "A Real Pain",
+    "daily_bo": 2000,
+    "theaters": 15,
+    "to_date": 8345472,
+    "days_in_theaters": 122
+  }
+]
