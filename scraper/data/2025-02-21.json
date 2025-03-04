@@ -1,0 +1,346 @@
+[
+  {
+    "movie_id": "bb4341db-a9e6-5a7f-a215-b9cdd5bd09b1",
+    "title": "Captain America: Brave New World",
+    "daily_bo": 7282666,
+    "theaters": 4105,
+    "to_date": 120288404,
+    "days_in_theaters": 8
+  },
+  {
+    "movie_id": "36a99583-9654-50cb-9a5a-74ebe05bf76d",
+    "title": "The Monkey",
+    "daily_bo": 5895940,
+    "theaters": 3200,
+    "to_date": 5895940,
+    "days_in_theaters": 1
+  },
+  {
+    "movie_id": "ab427386-a715-54a1-ad54-c3c78a2e1dc2",
+    "title": "Paddington in Peru",
+    "daily_bo": 1595912,
+    "theaters": 3890,
+    "to_date": 20350326,
+    "days_in_theaters": 8
+  },
+  {
+    "movie_id": "c07e08b3-a36c-5a56-a204-01c50920a28f",
+    "title": "Dog Man",
+    "daily_bo": 1339355,
+    "theaters": 3179,
+    "to_date": 74223695,
+    "days_in_theaters": 22
+  },
+  {
+    "movie_id": "a586793d-5f0b-56fe-8871-a60e69ff496c",
+    "title": "The Unbreakable Boy",
+    "daily_bo": 888666,
+    "theaters": 1687,
+    "to_date": 888666,
+    "days_in_theaters": 1
+  },
+  {
+    "movie_id": "4d16df3a-824a-5f4e-94dd-668cc0f0511e",
+    "title": "Heart Eyes",
+    "daily_bo": 767971,
+    "theaters": 3003,
+    "to_date": 24678100,
+    "days_in_theaters": 15
+  },
+  {
+    "movie_id": "78495465-69b6-5310-987d-36fe2883bbdd",
+    "title": "Ne Zha 2",
+    "daily_bo": 749766,
+    "theaters": 945,
+    "to_date": 12532235,
+    "days_in_theaters": 8
+  },
+  {
+    "movie_id": "a3d63c7f-895c-513e-86b3-b0d50120af17",
+    "title": "Mufasa: The Lion King",
+    "daily_bo": 572322,
+    "theaters": 1925,
+    "to_date": 243461505,
+    "days_in_theaters": 64
+  },
+  {
+    "movie_id": "f548c1fa-5541-5b56-ba5f-7044d40629c1",
+    "title": "Chhaava",
+    "daily_bo": 401000,
+    "theaters": 390,
+    "to_date": 2521000,
+    "days_in_theaters": 8
+  },
+  {
+    "movie_id": "93d5a13a-1fbd-505a-9a0a-ef36109d85dd",
+    "title": "One of Them Days",
+    "daily_bo": 394826,
+    "theaters": 1104,
+    "to_date": 44988737,
+    "days_in_theaters": 36
+  },
+  {
+    "movie_id": "cca479a9-8d9c-5331-a210-593c343cd81f",
+    "title": "Love Hurts",
+    "daily_bo": 299305,
+    "theaters": 2419,
+    "to_date": 13719010,
+    "days_in_theaters": 15
+  },
+  {
+    "movie_id": "4f3df51a-a872-57b4-8405-eebe92395637",
+    "title": "Becoming Led Zeppelin",
+    "daily_bo": 232409,
+    "theaters": 940,
+    "to_date": 6654817,
+    "days_in_theaters": 15
+  },
+  {
+    "movie_id": "f00a45fc-6cf9-51b7-a02e-86c840509635",
+    "title": "A Complete Unknown",
+    "daily_bo": 193936,
+    "theaters": 730,
+    "to_date": 71742706,
+    "days_in_theaters": 59
+  },
+  {
+    "movie_id": "4f4368e9-d21b-532c-8152-1e0e7d112d9f",
+    "title": "Companion",
+    "daily_bo": 178501,
+    "theaters": 663,
+    "to_date": 19620876,
+    "days_in_theaters": 22
+  },
+  {
+    "movie_id": "75b9c3d3-6beb-56d0-9a66-3a8e3fc26c5c",
+    "title": "Flight Risk",
+    "daily_bo": 163128,
+    "theaters": 868,
+    "to_date": 28508713,
+    "days_in_theaters": 29
+  },
+  {
+    "movie_id": "b3048f02-7d42-5944-840b-aae11ff0310c",
+    "title": "Legends of the Condor Heroes: The Gallants",
+    "daily_bo": 129657,
+    "theaters": 200,
+    "to_date": 129657,
+    "days_in_theaters": 1
+  },
+  {
+    "movie_id": "e8619521-056e-51f7-afdc-441ae8487fa6",
+    "title": "Moana 2",
+    "daily_bo": 105591,
+    "theaters": 630,
+    "to_date": 458350482,
+    "days_in_theaters": 87
+  },
+  {
+    "movie_id": "c3b1a561-7288-5b5a-bd3f-177a0412b3eb",
+    "title": "I'm Still Here",
+    "daily_bo": 102709,
+    "theaters": 762,
+    "to_date": 3914233,
+    "days_in_theaters": 36
+  },
+  {
+    "movie_id": "d7f4884b-2bc2-5420-9144-5ee7c5081769",
+    "title": "The Brutalist",
+    "daily_bo": 94658,
+    "theaters": 501,
+    "to_date": 14893996,
+    "days_in_theaters": 64
+  },
+  {
+    "movie_id": "f49ba170-29e6-5785-b00a-9014bde44fcb",
+    "title": "Sonic the Hedgehog 3",
+    "daily_bo": 71088,
+    "theaters": 591,
+    "to_date": 235004986,
+    "days_in_theaters": 64
+  },
+  {
+    "movie_id": "7ca1e353-ec9b-5bf7-8a43-fadf7091d856",
+    "title": "Wicked",
+    "daily_bo": 37755,
+    "theaters": 482,
+    "to_date": 472608585,
+    "days_in_theaters": 92
+  },
+  {
+    "movie_id": "c7b88527-7ff4-5a8d-abdc-83dd7a9a300f",
+    "title": "The Substance",
+    "daily_bo": 32957,
+    "theaters": 504,
+    "to_date": 17342473,
+    "days_in_theaters": 155
+  },
+  {
+    "movie_id": "dfcfe3d1-b20c-5772-bb89-7362764c282d",
+    "title": "Parthenope",
+    "daily_bo": 31265,
+    "theaters": 139,
+    "to_date": 142227,
+    "days_in_theaters": 15
+  },
+  {
+    "movie_id": "4022eff6-0bd1-545f-ad9c-772f694d57b2",
+    "title": "Nickel Boys",
+    "daily_bo": 24274,
+    "theaters": 125,
+    "to_date": 2499580,
+    "days_in_theaters": 71
+  },
+  {
+    "movie_id": "d24ae455-5d6b-5ea2-90c8-29b5ad07348b",
+    "title": "Anora",
+    "daily_bo": 23513,
+    "theaters": 408,
+    "to_date": 15486443,
+    "days_in_theaters": 127
+  },
+  {
+    "movie_id": "ac1cbd8a-b76f-52eb-bec2-7d8f35b9a4bd",
+    "title": "Green and Gold",
+    "daily_bo": 17786,
+    "theaters": 52,
+    "to_date": 1580308,
+    "days_in_theaters": 22
+  },
+  {
+    "movie_id": "8e0710a0-0b28-5cf8-979c-379124843054",
+    "title": "Conclave",
+    "daily_bo": 15360,
+    "theaters": 443,
+    "to_date": 32198135,
+    "days_in_theaters": 120
+  },
+  {
+    "movie_id": "57611d2c-cc6a-5a21-a943-f6ff6a07ff70",
+    "title": "Attack on Titan the Movie: The Last Attack",
+    "daily_bo": 9204,
+    "theaters": 54,
+    "to_date": 2799936,
+    "days_in_theaters": 12
+  },
+  {
+    "movie_id": "4cca0470-7d4b-50bf-b738-3c15608db087",
+    "title": "The Last Showgirl",
+    "daily_bo": 6287,
+    "theaters": 26,
+    "to_date": 4703026,
+    "days_in_theaters": 71
+  },
+  {
+    "movie_id": "703fcf17-f39d-5f72-be62-e3ff74fd17fb",
+    "title": "Brave the Dark",
+    "daily_bo": 5621,
+    "theaters": 50,
+    "to_date": 4483676,
+    "days_in_theaters": 29
+  },
+  {
+    "movie_id": "b5241288-3476-50f9-a05d-8d9efcfa6aeb",
+    "title": "Ex-Husbands",
+    "daily_bo": 5080,
+    "theaters": 1,
+    "to_date": 5080,
+    "days_in_theaters": 1
+  },
+  {
+    "movie_id": "9d988818-85a9-5994-b448-95974c31a26f",
+    "title": "Babygirl",
+    "daily_bo": 4168,
+    "theaters": 25,
+    "to_date": 28157692,
+    "days_in_theaters": 59
+  },
+  {
+    "movie_id": "dda574fa-b1a0-543c-8b8e-59727b4048f6",
+    "title": "The Room Next Door",
+    "daily_bo": 4009,
+    "theaters": 16,
+    "to_date": 2400781,
+    "days_in_theaters": 64
+  },
+  {
+    "movie_id": "591d27a9-a338-555a-9a56-2b3d9f69b34d",
+    "title": "Armand",
+    "daily_bo": 3802,
+    "theaters": 41,
+    "to_date": 95451,
+    "days_in_theaters": 15
+  },
+  {
+    "movie_id": "5f2b1a33-49ff-506e-8c70-c23b5d518d1f",
+    "title": "The Seed of the Sacred Fig",
+    "daily_bo": 3063,
+    "theaters": 18,
+    "to_date": 826056,
+    "days_in_theaters": 87
+  },
+  {
+    "movie_id": "18a5de31-c6f4-538c-bf98-2db25fe73df1",
+    "title": "Sing Sing2025 Re-release",
+    "daily_bo": 2753,
+    "theaters": 15,
+    "to_date": 707265,
+    "days_in_theaters": 36
+  },
+  {
+    "movie_id": "0c52fda8-7b56-55e0-8ac3-8bd82f54b12e",
+    "title": "Love & Pop",
+    "daily_bo": 2280,
+    "theaters": 2,
+    "to_date": 2280,
+    "days_in_theaters": 1
+  },
+  {
+    "movie_id": "b014b0c6-a38e-574d-b6d5-863ed1b3e689",
+    "title": "A Woman Is a Woman2025 Re-release",
+    "daily_bo": 986,
+    "theaters": 1,
+    "to_date": 46002,
+    "days_in_theaters": 15
+  },
+  {
+    "movie_id": "9479bd2c-e07e-5c18-9a98-bfde5d79ba9d",
+    "title": "Homestead",
+    "daily_bo": 966,
+    "theaters": 11,
+    "to_date": 20804904,
+    "days_in_theaters": 64
+  },
+  {
+    "movie_id": "dc752d14-caa7-5993-8cd1-25e7e97ef32a",
+    "title": "The Girl with the Needle",
+    "daily_bo": 777,
+    "theaters": 11,
+    "to_date": 104841,
+    "days_in_theaters": 78
+  },
+  {
+    "movie_id": "d3bcd032-4a8b-5760-a379-125333a027bb",
+    "title": "A Real Pain",
+    "daily_bo": 231,
+    "theaters": 15,
+    "to_date": 8334860,
+    "days_in_theaters": 113
+  },
+  {
+    "movie_id": "aa7f3b87-47fb-5c18-979d-b04e95b9451e",
+    "title": "Bonhoeffer",
+    "daily_bo": 192,
+    "theaters": 1,
+    "to_date": 12221383,
+    "days_in_theaters": 92
+  },
+  {
+    "movie_id": "437fec8e-afb2-576b-bf05-d82368dcafb7",
+    "title": "Bring Them Down",
+    "daily_bo": 169,
+    "theaters": 4,
+    "to_date": 335357,
+    "days_in_theaters": 15
+  }
+]

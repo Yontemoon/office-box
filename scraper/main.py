@@ -4,19 +4,21 @@ from utils import stringToInt
 import json
 from datetime import date, timedelta
 from utils import uuidToString
+from server import supabase
 
-
-
-def get_daily_bo(date):
-    url = f"https://www.boxofficemojo.com/date/{date}/?ref_=bo_di_table_1"
+def get_daily_bo(date: str):
+    url = f"https://www.boxofficemojo.com/date/{date}/?ref_=bo_da_nav"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
     movies = []
 
-    movie_elements = soup.find_all("tr", class_="mojo-annotation-isEstimated")
-    print(movie_elements)
+    movie_tables = soup.find("div", class_="a-section imdb-scroll-table-inner")
+    tables = movie_tables.find("table")
 
-    for movie in movie_elements:
+    movie_rows = tables.find_all("tr")
+    rows_without_header = movie_rows[1:]
+
+    for movie in rows_without_header:
         table_data = movie.find_all("td")
         title = table_data[2].text
         uuidId = uuidToString(title)
@@ -39,14 +41,19 @@ def get_daily_bo(date):
 
 def main():
     today = date.today()
-    yesterday = today - timedelta(days=1)
-    print("Todays date:", yesterday)
-    movies = get_daily_bo(yesterday)
 
-    #Save in file
-    with open(f"data/{yesterday}.json", "w") as f:
-        json.dump(movies, f, indent=2)
+    for index in range(10, 0, -1):
+        current_date = today - timedelta(days=index)
+        print("current date", current_date)
+        movieInfo = get_daily_bo(current_date)
+
+        with open(f"data/{current_date}.json", "w") as f:
+            json.dump(movieInfo, f, indent=2)
+            print("Generated JSON file for", current_date)
+
     print("Successfully added data!")
+
+
 
 if __name__ == "__main__":
     main()
